@@ -1,12 +1,12 @@
-# 👋 ¡Hola! Soy Ximo
+# 👋 Hi there! I'm Ximo
 
-🎓 Estudiante de Ingeniería en Inteligencia Artificial en la Universidad de Alicante.  
-💡 Me apasiona el desarrollo de sistemas inteligentes, la programación backend con Python y el diseño de soluciones automatizadas y eficientes.  
-🔍 Actualmente trabajando con Filtros de Kalman, lógica difusa y arquitecturas de decisión.
+🎓 Artificial Intelligence Engineering student at the University of Alicante.  
+💡 Passionate about intelligent systems development, backend programming with Python, and designing efficient automated solutions.  
+🔍 Currently working on Kalman Filters, fuzzy logic, and decision-making architectures.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?logo=fastapi)
@@ -17,22 +17,22 @@
 
 ---
 
-## 🚀 Proyectos destacados *(provisional, se actualizará)*
+## 🚀 Featured Projects *(in progress — coming soon)*
 
-- 🤖 **Sistema experto difuso para navegación**  
-  Lógica difusa para tomar decisiones de orientación y evasión de obstáculos en entornos dinámicos.
+- 🤖 **Fuzzy Expert System for Navigation**  
+  Fuzzy logic-based decision making for orientation and obstacle avoidance in dynamic environments.
 
-- 🧠 **Controlador inteligente para robot móvil**  
-  Integración de Kalman + heurísticas para movimiento eficiente y robusto.
+- 🧠 **Smart Controller for Mobile Robot**  
+  Kalman Filter integration with heuristics for efficient and robust motion.
 
-- 👾 **Simulación de juego con IA autónoma**  
-  Entrenamiento de políticas con refuerzo para control inteligente en un entorno lúdico (Pac-Man style).
+- 👾 **Autonomous Game AI Simulation**  
+  Reinforcement learning policies applied to a simplified Pac-Man-like environment.
 
-> *(Subiré estos repos públicos en breve. ¡Stay tuned!)*
+> *(These repositories will be published soon. Stay tuned!)*
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 
 ![Ximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quimett&show_icons=true&theme=github_dark&hide=stars&count_private=true)
 
@@ -40,12 +40,12 @@
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-- 📍 Alicante, España  
+- 📍 Alicante, Spain  
 - 💼 [LinkedIn](https://www.linkedin.com/in/josich)  
 - 📬 Email: `221833789+Quimett@users.noreply.github.com`
 
 ---
 
-> ⚙️ Este perfil está en constante mejora. Siempre hay algo nuevo que aprender, crear e incluso a veces romper.
+> ⚙️ This profile is a continuous work in progress — always something new to learn, build, or sometimes break.
