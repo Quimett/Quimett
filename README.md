@@ -43,7 +43,7 @@
 ## 📫 Contacto
 
 - 📍 Alicante, España  
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/josich)  
 - 📬 Email: `221833789+Quimett@users.noreply.github.com`
 
 ---
