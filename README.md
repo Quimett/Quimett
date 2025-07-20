@@ -1,8 +1,12 @@
 # 👋 Hi there! I'm Ximo
 
+---
+<img src="readme/Banner.png" alt="Ximo Sigüenza - Artificial Intelligence student" width="100%" />
+
+
 🎓 Artificial Intelligence Engineering student at the University of Alicante.  
 💡 Passionate about intelligent systems development, backend programming with Python, and designing efficient automated solutions.  
-🔍 Currently working on Kalman Filters, fuzzy logic, and decision-making architectures.
+🔍 Currently studying Kalman Filters, fuzzy logic, and decision-making architectures.
 
 ---
 
@@ -34,9 +38,10 @@
 
 ## 📈 GitHub Stats
 
-![Ximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quimett&show_icons=true&theme=github_dark&hide=stars&count_private=true)
+![Ximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quimett&show_icons=true&theme=github_dark&hide=stars&count_private=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quimett&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quimett&layout=compact&theme=github_dark&count_private=false)
+
 
 ---
 
@@ -47,5 +52,10 @@
 - 📬 Email: `221833789+Quimett@users.noreply.github.com`
 
 ---
+
+![](https://komarev.com/ghpvc/?username=quimett&color=blueviolet&style=flat-square&label=Stalkers)
+
+
+
 
 > ⚙️ This profile is a continuous work in progress — always something new to learn, build, or sometimes break.
