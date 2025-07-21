@@ -52,9 +52,9 @@ Throughout my education and personal projects, I’ve worked with a variety of t
 
 ## 📈 GitHub Stats
 
-![Ximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quimett&show_icons=true&theme=github_dark&hide=stars&count_private=false)
+![Ximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quimett&show_icons=true&theme=github_dark&hide=stars&count_private=True)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quimett&layout=compact&theme=github_dark&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quimett&layout=compact&theme=github_dark&count_private=True)
 
 
 ---
